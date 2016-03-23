@@ -15,6 +15,7 @@
 		AF91A44D1C9FC0E000286E9B /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = AF91A44C1C9FC0E000286E9B /* .gitignore */; };
 		AF91A44F1C9FC28D00286E9B /* PhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF91A44E1C9FC28D00286E9B /* PhotosViewController.swift */; };
 		AF91A4511C9FC68700286E9B /* FlickrAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF91A4501C9FC68700286E9B /* FlickrAPI.swift */; };
+		AFC1A3361CA2521800968E06 /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFC1A3351CA2521800968E06 /* Photo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		AF91A44C1C9FC0E000286E9B /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		AF91A44E1C9FC28D00286E9B /* PhotosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotosViewController.swift; sourceTree = "<group>"; };
 		AF91A4501C9FC68700286E9B /* FlickrAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlickrAPI.swift; sourceTree = "<group>"; };
+		AFC1A3351CA2521800968E06 /* Photo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 			children = (
 				AF91A43A1C9FC0C600286E9B /* AppDelegate.swift */,
 				AF91A43E1C9FC0C600286E9B /* Main.storyboard */,
+				AFC1A3351CA2521800968E06 /* Photo.swift */,
 				AF91A4501C9FC68700286E9B /* FlickrAPI.swift */,
 				AF91A4411C9FC0C600286E9B /* Assets.xcassets */,
 				AF91A4431C9FC0C600286E9B /* LaunchScreen.storyboard */,
@@ -149,6 +152,7 @@
 				AF91A44F1C9FC28D00286E9B /* PhotosViewController.swift in Sources */,
 				AF85F1F01CA102D6000DF74E /* PhotoStore.swift in Sources */,
 				AF91A43B1C9FC0C600286E9B /* AppDelegate.swift in Sources */,
+				AFC1A3361CA2521800968E06 /* Photo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
