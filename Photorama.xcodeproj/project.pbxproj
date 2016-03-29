@@ -66,12 +66,12 @@
 				AF91A43A1C9FC0C600286E9B /* AppDelegate.swift */,
 				AF91A43E1C9FC0C600286E9B /* Main.storyboard */,
 				AFC1A3351CA2521800968E06 /* Photo.swift */,
+				AF85F1EF1CA102D6000DF74E /* PhotoStore.swift */,
+				AF91A44E1C9FC28D00286E9B /* PhotosViewController.swift */,
 				AF91A4501C9FC68700286E9B /* FlickrAPI.swift */,
 				AF91A4411C9FC0C600286E9B /* Assets.xcassets */,
 				AF91A4431C9FC0C600286E9B /* LaunchScreen.storyboard */,
 				AF91A4461C9FC0C600286E9B /* Info.plist */,
-				AF91A44E1C9FC28D00286E9B /* PhotosViewController.swift */,
-				AF85F1EF1CA102D6000DF74E /* PhotoStore.swift */,
 			);
 			path = Photorama;
 			sourceTree = "<group>";
