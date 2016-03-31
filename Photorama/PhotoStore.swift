@@ -43,7 +43,6 @@ class PhotoStore {
             let result = self.processRecentPhotosRequest(data: data, error: error)
             completion(result)
             
-            
         }
         task.resume()
     }
